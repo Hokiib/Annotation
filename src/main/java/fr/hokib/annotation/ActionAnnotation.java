@@ -1,6 +1,6 @@
-package org.example.annotation;
+package fr.hokib.annotation;
 
-import org.example.annotation.priority.Priority;
+import fr.hokib.annotation.priority.Priority;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

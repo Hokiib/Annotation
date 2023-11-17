@@ -1,6 +1,6 @@
-package org.example.actions.types.impl;
+package fr.hokib.actions.types.impl;
 
-import org.example.actions.types.Action;
+import fr.hokib.actions.types.Action;
 
 public class Courir extends Action {
 

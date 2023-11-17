@@ -1,8 +1,8 @@
-package org.example.actions.impl;
+package fr.hokib.actions.impl;
 
-import org.example.annotation.ActionAnnotation;
-import org.example.actions.Actionnable;
-import org.example.actions.types.impl.Courir;
+import fr.hokib.annotation.ActionAnnotation;
+import fr.hokib.actions.Actionnable;
+import fr.hokib.actions.types.impl.Courir;
 
 public class A implements Actionnable {
 

@@ -1,10 +1,10 @@
-package org.example.actions.impl;
+package fr.hokib.actions.impl;
 
-import org.example.annotation.ActionAnnotation;
-import org.example.annotation.priority.Priority;
-import org.example.actions.Actionnable;
-import org.example.actions.types.impl.Courir;
-import org.example.actions.types.impl.Manger;
+import fr.hokib.actions.Actionnable;
+import fr.hokib.annotation.priority.Priority;
+import fr.hokib.annotation.ActionAnnotation;
+import fr.hokib.actions.types.impl.Courir;
+import fr.hokib.actions.types.impl.Manger;
 
 import java.util.SplittableRandom;
 

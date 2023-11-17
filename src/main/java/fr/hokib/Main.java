@@ -1,14 +1,14 @@
-package org.example;
+package fr.hokib;
 
-import org.example.annotation.ActionAnnotation;
-import org.example.annotation.priority.Priority;
-import org.example.actions.Actionnable;
-import org.example.actions.impl.A;
-import org.example.actions.impl.B;
-import org.example.actions.types.Action;
-import org.example.actions.types.impl.Courir;
-import org.example.actions.types.impl.Manger;
-import org.example.util.ActionnableTuple;
+import fr.hokib.actions.Actionnable;
+import fr.hokib.actions.impl.A;
+import fr.hokib.actions.impl.B;
+import fr.hokib.annotation.ActionAnnotation;
+import fr.hokib.annotation.priority.Priority;
+import fr.hokib.util.ActionnableTuple;
+import fr.hokib.actions.types.Action;
+import fr.hokib.actions.types.impl.Courir;
+import fr.hokib.actions.types.impl.Manger;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

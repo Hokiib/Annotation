@@ -1,4 +1,4 @@
-package org.example.actions.types;
+package fr.hokib.actions.types;
 
 public class Action {
 

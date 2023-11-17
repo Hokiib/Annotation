@@ -1,4 +1,4 @@
-package org.example.actions;
+package fr.hokib.actions;
 
 public interface Actionnable {
 

@@ -1,4 +1,4 @@
-package org.example.annotation.priority;
+package fr.hokib.annotation.priority;
 
 public enum Priority {
 
