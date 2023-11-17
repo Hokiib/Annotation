@@ -1,6 +1,6 @@
 package org.example.util;
 
-import org.example.in.Actionnable;
+import org.example.actions.Actionnable;
 
 import java.lang.reflect.Method;
 
